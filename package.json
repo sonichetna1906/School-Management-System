@@ -1,0 +1,22 @@
+{
+  "name": "student-management",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Student records with Mongoose and related courses",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "mongoose": "^9.0.0",
+    "moongose": "^1.0.0"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
